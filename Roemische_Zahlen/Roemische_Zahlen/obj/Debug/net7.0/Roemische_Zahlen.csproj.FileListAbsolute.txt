@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\obj\Debug\net7.0\Roemische_Zahlen.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\obj\Debug\net7.0\Roemische_Zahlen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\obj\Debug\net7.0\Roemische_Zahlen.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\obj\Debug\net7.0\Roemische_Zahlen.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\obj\Debug\net7.0\Roemische_Zahlen.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\bin\Debug\net7.0\Roemische_Zahlen.exe
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\bin\Debug\net7.0\Roemische_Zahlen.deps.json
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\bin\Debug\net7.0\Roemische_Zahlen.runtimeconfig.json
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\bin\Debug\net7.0\Roemische_Zahlen.dll
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\bin\Debug\net7.0\Roemische_Zahlen.pdb
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\obj\Debug\net7.0\Roemische_Zahlen.dll
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\obj\Debug\net7.0\refint\Roemische_Zahlen.dll
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\obj\Debug\net7.0\Roemische_Zahlen.pdb
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\obj\Debug\net7.0\Roemische_Zahlen.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\Roemische_Zahlen\Roemische_Zahlen\obj\Debug\net7.0\ref\Roemische_Zahlen.dll

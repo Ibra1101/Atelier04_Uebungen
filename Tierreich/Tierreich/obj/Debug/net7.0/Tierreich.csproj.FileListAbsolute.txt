@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\bin\Debug\net7.0\Tierreich.exe
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\bin\Debug\net7.0\Tierreich.deps.json
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\bin\Debug\net7.0\Tierreich.runtimeconfig.json
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\bin\Debug\net7.0\Tierreich.dll
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\bin\Debug\net7.0\Tierreich.pdb
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\obj\Debug\net7.0\Tierreich.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\obj\Debug\net7.0\Tierreich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\obj\Debug\net7.0\Tierreich.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\obj\Debug\net7.0\Tierreich.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\obj\Debug\net7.0\Tierreich.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\obj\Debug\net7.0\Tierreich.dll
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\obj\Debug\net7.0\refint\Tierreich.dll
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\obj\Debug\net7.0\Tierreich.pdb
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\obj\Debug\net7.0\Tierreich.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\Tierreich\Tierreich\obj\Debug\net7.0\ref\Tierreich.dll

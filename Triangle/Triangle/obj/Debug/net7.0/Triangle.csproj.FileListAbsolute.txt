@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\Triangle\Triangle\bin\Debug\net7.0\Triangle.exe
+C:\Users\ihalt\source\repos\Triangle\Triangle\bin\Debug\net7.0\Triangle.deps.json
+C:\Users\ihalt\source\repos\Triangle\Triangle\bin\Debug\net7.0\Triangle.runtimeconfig.json
+C:\Users\ihalt\source\repos\Triangle\Triangle\bin\Debug\net7.0\Triangle.dll
+C:\Users\ihalt\source\repos\Triangle\Triangle\bin\Debug\net7.0\Triangle.pdb
+C:\Users\ihalt\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.dll
+C:\Users\ihalt\source\repos\Triangle\Triangle\obj\Debug\net7.0\refint\Triangle.dll
+C:\Users\ihalt\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.pdb
+C:\Users\ihalt\source\repos\Triangle\Triangle\obj\Debug\net7.0\Triangle.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\Triangle\Triangle\obj\Debug\net7.0\ref\Triangle.dll
