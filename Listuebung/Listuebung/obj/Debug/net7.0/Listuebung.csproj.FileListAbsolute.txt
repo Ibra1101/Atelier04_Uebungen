@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\bin\Debug\net7.0\Listuebung.exe
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\bin\Debug\net7.0\Listuebung.deps.json
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\bin\Debug\net7.0\Listuebung.runtimeconfig.json
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\bin\Debug\net7.0\Listuebung.dll
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\bin\Debug\net7.0\Listuebung.pdb
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\obj\Debug\net7.0\Listuebung.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\obj\Debug\net7.0\Listuebung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\obj\Debug\net7.0\Listuebung.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\obj\Debug\net7.0\Listuebung.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\obj\Debug\net7.0\Listuebung.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\obj\Debug\net7.0\Listuebung.dll
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\obj\Debug\net7.0\refint\Listuebung.dll
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\obj\Debug\net7.0\Listuebung.pdb
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\obj\Debug\net7.0\Listuebung.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\Listuebung\Listuebung\obj\Debug\net7.0\ref\Listuebung.dll

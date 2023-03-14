@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\Klassen\Klassen\bin\Debug\net7.0\Klassen.exe
+C:\Users\ihalt\source\repos\Klassen\Klassen\bin\Debug\net7.0\Klassen.deps.json
+C:\Users\ihalt\source\repos\Klassen\Klassen\bin\Debug\net7.0\Klassen.runtimeconfig.json
+C:\Users\ihalt\source\repos\Klassen\Klassen\bin\Debug\net7.0\Klassen.dll
+C:\Users\ihalt\source\repos\Klassen\Klassen\bin\Debug\net7.0\Klassen.pdb
+C:\Users\ihalt\source\repos\Klassen\Klassen\obj\Debug\net7.0\Klassen.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\Klassen\Klassen\obj\Debug\net7.0\Klassen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\Klassen\Klassen\obj\Debug\net7.0\Klassen.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\Klassen\Klassen\obj\Debug\net7.0\Klassen.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\Klassen\Klassen\obj\Debug\net7.0\Klassen.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\Klassen\Klassen\obj\Debug\net7.0\Klassen.dll
+C:\Users\ihalt\source\repos\Klassen\Klassen\obj\Debug\net7.0\refint\Klassen.dll
+C:\Users\ihalt\source\repos\Klassen\Klassen\obj\Debug\net7.0\Klassen.pdb
+C:\Users\ihalt\source\repos\Klassen\Klassen\obj\Debug\net7.0\Klassen.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\Klassen\Klassen\obj\Debug\net7.0\ref\Klassen.dll
