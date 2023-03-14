@@ -1,0 +1,12 @@
+C:\Users\ihalt\source\repos\rechteck-prop\rechteck-prop\bin\Debug\net7.0\rechteck-prop.deps.json
+C:\Users\ihalt\source\repos\rechteck-prop\rechteck-prop\bin\Debug\net7.0\rechteck-prop.dll
+C:\Users\ihalt\source\repos\rechteck-prop\rechteck-prop\bin\Debug\net7.0\rechteck-prop.pdb
+C:\Users\ihalt\source\repos\rechteck-prop\rechteck-prop\obj\Debug\net7.0\rechteck-prop.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\rechteck-prop\rechteck-prop\obj\Debug\net7.0\rechteck-prop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\rechteck-prop\rechteck-prop\obj\Debug\net7.0\rechteck-prop.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\rechteck-prop\rechteck-prop\obj\Debug\net7.0\rechteck-prop.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\rechteck-prop\rechteck-prop\obj\Debug\net7.0\rechteck-prop.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\rechteck-prop\rechteck-prop\obj\Debug\net7.0\rechteck-prop.dll
+C:\Users\ihalt\source\repos\rechteck-prop\rechteck-prop\obj\Debug\net7.0\refint\rechteck-prop.dll
+C:\Users\ihalt\source\repos\rechteck-prop\rechteck-prop\obj\Debug\net7.0\rechteck-prop.pdb
+C:\Users\ihalt\source\repos\rechteck-prop\rechteck-prop\obj\Debug\net7.0\ref\rechteck-prop.dll

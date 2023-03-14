@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\obj\Debug\net7.0\rechteck2.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\obj\Debug\net7.0\rechteck2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\obj\Debug\net7.0\rechteck2.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\obj\Debug\net7.0\rechteck2.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\obj\Debug\net7.0\rechteck2.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\bin\Debug\net7.0\rechteck2.exe
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\bin\Debug\net7.0\rechteck2.deps.json
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\bin\Debug\net7.0\rechteck2.runtimeconfig.json
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\bin\Debug\net7.0\rechteck2.dll
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\bin\Debug\net7.0\rechteck2.pdb
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\obj\Debug\net7.0\rechteck2.dll
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\obj\Debug\net7.0\refint\rechteck2.dll
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\obj\Debug\net7.0\rechteck2.pdb
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\obj\Debug\net7.0\rechteck2.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\rechteck2\rechteck2\obj\Debug\net7.0\ref\rechteck2.dll

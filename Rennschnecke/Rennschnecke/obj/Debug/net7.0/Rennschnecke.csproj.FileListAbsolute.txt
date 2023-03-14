@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\bin\Debug\net7.0\Rennschnecke.exe
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\bin\Debug\net7.0\Rennschnecke.deps.json
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\bin\Debug\net7.0\Rennschnecke.runtimeconfig.json
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\bin\Debug\net7.0\Rennschnecke.dll
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\bin\Debug\net7.0\Rennschnecke.pdb
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\obj\Debug\net7.0\Rennschnecke.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\obj\Debug\net7.0\Rennschnecke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\obj\Debug\net7.0\Rennschnecke.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\obj\Debug\net7.0\Rennschnecke.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\obj\Debug\net7.0\Rennschnecke.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\obj\Debug\net7.0\Rennschnecke.dll
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\obj\Debug\net7.0\refint\Rennschnecke.dll
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\obj\Debug\net7.0\Rennschnecke.pdb
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\obj\Debug\net7.0\Rennschnecke.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\Rennschnecke\Rennschnecke\obj\Debug\net7.0\ref\Rennschnecke.dll
