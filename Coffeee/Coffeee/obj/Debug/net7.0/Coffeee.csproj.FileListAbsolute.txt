@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\bin\Debug\net7.0\Coffeee.exe
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\bin\Debug\net7.0\Coffeee.deps.json
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\bin\Debug\net7.0\Coffeee.runtimeconfig.json
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\bin\Debug\net7.0\Coffeee.dll
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\bin\Debug\net7.0\Coffeee.pdb
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\obj\Debug\net7.0\Coffeee.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\obj\Debug\net7.0\Coffeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\obj\Debug\net7.0\Coffeee.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\obj\Debug\net7.0\Coffeee.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\obj\Debug\net7.0\Coffeee.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\obj\Debug\net7.0\Coffeee.dll
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\obj\Debug\net7.0\refint\Coffeee.dll
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\obj\Debug\net7.0\Coffeee.pdb
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\obj\Debug\net7.0\Coffeee.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\Coffeee\Coffeee\obj\Debug\net7.0\ref\Coffeee.dll

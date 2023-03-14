@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\Buch\Buch\bin\Debug\net7.0\Buch.exe
+C:\Users\ihalt\source\repos\Buch\Buch\bin\Debug\net7.0\Buch.deps.json
+C:\Users\ihalt\source\repos\Buch\Buch\bin\Debug\net7.0\Buch.runtimeconfig.json
+C:\Users\ihalt\source\repos\Buch\Buch\bin\Debug\net7.0\Buch.dll
+C:\Users\ihalt\source\repos\Buch\Buch\bin\Debug\net7.0\Buch.pdb
+C:\Users\ihalt\source\repos\Buch\Buch\obj\Debug\net7.0\Buch.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\Buch\Buch\obj\Debug\net7.0\Buch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\Buch\Buch\obj\Debug\net7.0\Buch.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\Buch\Buch\obj\Debug\net7.0\Buch.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\Buch\Buch\obj\Debug\net7.0\Buch.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\Buch\Buch\obj\Debug\net7.0\Buch.dll
+C:\Users\ihalt\source\repos\Buch\Buch\obj\Debug\net7.0\refint\Buch.dll
+C:\Users\ihalt\source\repos\Buch\Buch\obj\Debug\net7.0\Buch.pdb
+C:\Users\ihalt\source\repos\Buch\Buch\obj\Debug\net7.0\Buch.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\Buch\Buch\obj\Debug\net7.0\ref\Buch.dll

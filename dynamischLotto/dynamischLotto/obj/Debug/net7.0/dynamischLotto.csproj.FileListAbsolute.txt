@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\obj\Debug\net7.0\dynamischLotto.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\obj\Debug\net7.0\dynamischLotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\obj\Debug\net7.0\dynamischLotto.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\obj\Debug\net7.0\dynamischLotto.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\obj\Debug\net7.0\dynamischLotto.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\bin\Debug\net7.0\dynamischLotto.exe
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\bin\Debug\net7.0\dynamischLotto.deps.json
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\bin\Debug\net7.0\dynamischLotto.runtimeconfig.json
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\bin\Debug\net7.0\dynamischLotto.dll
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\bin\Debug\net7.0\dynamischLotto.pdb
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\obj\Debug\net7.0\dynamischLotto.dll
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\obj\Debug\net7.0\refint\dynamischLotto.dll
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\obj\Debug\net7.0\dynamischLotto.pdb
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\obj\Debug\net7.0\dynamischLotto.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\dynamischLotto\dynamischLotto\obj\Debug\net7.0\ref\dynamischLotto.dll
