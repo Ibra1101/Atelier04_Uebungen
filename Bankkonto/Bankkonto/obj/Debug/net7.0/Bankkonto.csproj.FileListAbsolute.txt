@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\bin\Debug\net7.0\Bankkonto.exe
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\bin\Debug\net7.0\Bankkonto.deps.json
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\bin\Debug\net7.0\Bankkonto.runtimeconfig.json
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\bin\Debug\net7.0\Bankkonto.dll
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\bin\Debug\net7.0\Bankkonto.pdb
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\obj\Debug\net7.0\Bankkonto.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\obj\Debug\net7.0\Bankkonto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\obj\Debug\net7.0\Bankkonto.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\obj\Debug\net7.0\Bankkonto.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\obj\Debug\net7.0\Bankkonto.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\obj\Debug\net7.0\Bankkonto.dll
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\obj\Debug\net7.0\refint\Bankkonto.dll
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\obj\Debug\net7.0\Bankkonto.pdb
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\obj\Debug\net7.0\Bankkonto.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\Bankkonto\Bankkonto\obj\Debug\net7.0\ref\Bankkonto.dll

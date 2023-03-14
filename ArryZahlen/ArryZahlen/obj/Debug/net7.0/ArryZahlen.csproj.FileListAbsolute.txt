@@ -1,0 +1,12 @@
+C:\Users\ihalt\source\repos\ArryZahlen\ArryZahlen\bin\Debug\net7.0\ArryZahlen.deps.json
+C:\Users\ihalt\source\repos\ArryZahlen\ArryZahlen\bin\Debug\net7.0\ArryZahlen.dll
+C:\Users\ihalt\source\repos\ArryZahlen\ArryZahlen\bin\Debug\net7.0\ArryZahlen.pdb
+C:\Users\ihalt\source\repos\ArryZahlen\ArryZahlen\obj\Debug\net7.0\ArryZahlen.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\ArryZahlen\ArryZahlen\obj\Debug\net7.0\ArryZahlen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\ArryZahlen\ArryZahlen\obj\Debug\net7.0\ArryZahlen.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\ArryZahlen\ArryZahlen\obj\Debug\net7.0\ArryZahlen.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\ArryZahlen\ArryZahlen\obj\Debug\net7.0\ArryZahlen.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\ArryZahlen\ArryZahlen\obj\Debug\net7.0\ArryZahlen.dll
+C:\Users\ihalt\source\repos\ArryZahlen\ArryZahlen\obj\Debug\net7.0\refint\ArryZahlen.dll
+C:\Users\ihalt\source\repos\ArryZahlen\ArryZahlen\obj\Debug\net7.0\ArryZahlen.pdb
+C:\Users\ihalt\source\repos\ArryZahlen\ArryZahlen\obj\Debug\net7.0\ref\ArryZahlen.dll
