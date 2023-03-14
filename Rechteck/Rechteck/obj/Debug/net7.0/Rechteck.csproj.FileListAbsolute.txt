@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\bin\Debug\net7.0\Rechteck.exe
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\bin\Debug\net7.0\Rechteck.deps.json
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\bin\Debug\net7.0\Rechteck.runtimeconfig.json
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\bin\Debug\net7.0\Rechteck.dll
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\bin\Debug\net7.0\Rechteck.pdb
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\obj\Debug\net7.0\Rechteck.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\obj\Debug\net7.0\Rechteck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\obj\Debug\net7.0\Rechteck.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\obj\Debug\net7.0\Rechteck.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\obj\Debug\net7.0\Rechteck.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\obj\Debug\net7.0\Rechteck.dll
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\obj\Debug\net7.0\refint\Rechteck.dll
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\obj\Debug\net7.0\Rechteck.pdb
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\obj\Debug\net7.0\Rechteck.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\Rechteck\Rechteck\obj\Debug\net7.0\ref\Rechteck.dll

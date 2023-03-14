@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\Radio\Radio\obj\Debug\net7.0\Radio.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\Radio\Radio\obj\Debug\net7.0\Radio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\Radio\Radio\obj\Debug\net7.0\Radio.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\Radio\Radio\obj\Debug\net7.0\Radio.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\Radio\Radio\obj\Debug\net7.0\Radio.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\Radio\Radio\bin\Debug\net7.0\Radio.exe
+C:\Users\ihalt\source\repos\Radio\Radio\bin\Debug\net7.0\Radio.deps.json
+C:\Users\ihalt\source\repos\Radio\Radio\bin\Debug\net7.0\Radio.runtimeconfig.json
+C:\Users\ihalt\source\repos\Radio\Radio\bin\Debug\net7.0\Radio.dll
+C:\Users\ihalt\source\repos\Radio\Radio\bin\Debug\net7.0\Radio.pdb
+C:\Users\ihalt\source\repos\Radio\Radio\obj\Debug\net7.0\Radio.dll
+C:\Users\ihalt\source\repos\Radio\Radio\obj\Debug\net7.0\refint\Radio.dll
+C:\Users\ihalt\source\repos\Radio\Radio\obj\Debug\net7.0\Radio.pdb
+C:\Users\ihalt\source\repos\Radio\Radio\obj\Debug\net7.0\Radio.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\Radio\Radio\obj\Debug\net7.0\ref\Radio.dll

@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\bin\Debug\net7.0\Raumbuchen.exe
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\bin\Debug\net7.0\Raumbuchen.deps.json
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\bin\Debug\net7.0\Raumbuchen.runtimeconfig.json
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\bin\Debug\net7.0\Raumbuchen.dll
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\bin\Debug\net7.0\Raumbuchen.pdb
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\obj\Debug\net7.0\Raumbuchen.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\obj\Debug\net7.0\Raumbuchen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\obj\Debug\net7.0\Raumbuchen.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\obj\Debug\net7.0\Raumbuchen.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\obj\Debug\net7.0\Raumbuchen.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\obj\Debug\net7.0\Raumbuchen.dll
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\obj\Debug\net7.0\refint\Raumbuchen.dll
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\obj\Debug\net7.0\Raumbuchen.pdb
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\obj\Debug\net7.0\Raumbuchen.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\Raumbuchen\Raumbuchen\obj\Debug\net7.0\ref\Raumbuchen.dll

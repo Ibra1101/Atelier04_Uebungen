@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rechteck", "Rechteck\Rechteck.csproj", "{5AA834B2-04CB-46B6-A418-1A76B7F1B5B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AA834B2-04CB-46B6-A418-1A76B7F1B5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA834B2-04CB-46B6-A418-1A76B7F1B5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA834B2-04CB-46B6-A418-1A76B7F1B5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA834B2-04CB-46B6-A418-1A76B7F1B5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8565741D-C8FF-413B-AEF0-C6DC3F7B71E9}
+	EndGlobalSection
+EndGlobal
