@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\bin\Debug\net7.0\Zahlen_durch_funf.exe
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\bin\Debug\net7.0\Zahlen_durch_funf.deps.json
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\bin\Debug\net7.0\Zahlen_durch_funf.runtimeconfig.json
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\bin\Debug\net7.0\Zahlen_durch_funf.dll
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\bin\Debug\net7.0\Zahlen_durch_funf.pdb
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\obj\Debug\net7.0\Zahlen_durch_funf.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\obj\Debug\net7.0\Zahlen_durch_funf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\obj\Debug\net7.0\Zahlen_durch_funf.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\obj\Debug\net7.0\Zahlen_durch_funf.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\obj\Debug\net7.0\Zahlen_durch_funf.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\obj\Debug\net7.0\Zahlen_durch_funf.dll
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\obj\Debug\net7.0\refint\Zahlen_durch_funf.dll
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\obj\Debug\net7.0\Zahlen_durch_funf.pdb
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\obj\Debug\net7.0\Zahlen_durch_funf.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\Zahlen_durch_funf\Zahlen_durch_funf\obj\Debug\net7.0\ref\Zahlen_durch_funf.dll

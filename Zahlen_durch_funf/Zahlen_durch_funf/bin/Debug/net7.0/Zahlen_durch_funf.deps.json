@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Zahlen_durch_funf/1.0.0": {
+        "runtime": {
+          "Zahlen_durch_funf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zahlen_durch_funf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
