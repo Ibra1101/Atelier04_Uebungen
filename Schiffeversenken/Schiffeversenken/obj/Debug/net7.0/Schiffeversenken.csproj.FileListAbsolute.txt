@@ -1,0 +1,15 @@
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\obj\Debug\net7.0\Schiffeversenken.csproj.AssemblyReference.cache
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\obj\Debug\net7.0\Schiffeversenken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\obj\Debug\net7.0\Schiffeversenken.AssemblyInfoInputs.cache
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\obj\Debug\net7.0\Schiffeversenken.AssemblyInfo.cs
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\obj\Debug\net7.0\Schiffeversenken.csproj.CoreCompileInputs.cache
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\bin\Debug\net7.0\Schiffeversenken.exe
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\bin\Debug\net7.0\Schiffeversenken.deps.json
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\bin\Debug\net7.0\Schiffeversenken.runtimeconfig.json
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\bin\Debug\net7.0\Schiffeversenken.dll
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\bin\Debug\net7.0\Schiffeversenken.pdb
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\obj\Debug\net7.0\Schiffeversenken.dll
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\obj\Debug\net7.0\refint\Schiffeversenken.dll
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\obj\Debug\net7.0\Schiffeversenken.pdb
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\obj\Debug\net7.0\Schiffeversenken.genruntimeconfig.cache
+C:\Users\ihalt\source\repos\Schiffeversenken\Schiffeversenken\obj\Debug\net7.0\ref\Schiffeversenken.dll
